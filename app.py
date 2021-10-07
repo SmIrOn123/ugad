@@ -25,5 +25,3 @@ while True:
 		print('Вы запомнили 4 цифру')
 	else:
 		print()
-
-main()
